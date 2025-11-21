@@ -20,4 +20,4 @@ Bu Power BI raporu, aşağıdaki temel iş metriklerine odaklanmıştır:
 
 ## 📝 Notlar
 
-Bu rapor, yüksek kâr marjına sahip ancak düşük ciroya sahip ürünleri (potansiyel büyüme alanları) ve düşük kâr marjına sahip yüksek ciroya sahip ürünleri (maliyet optimizasyon alanları) belirlemeye yardımcı olur. Kullanılan grafiklerin ve sekme yapısının çeşitliliği, verilerin farklı açılardan hızla incelenmesine ve iş kararlarının daha sağlam verilere dayanmasına olanak tanır.
+Bu rapor, yüksek kâr marjına sahip ancak düşük ciroya sahip ürünleri (potansiyel büyüme alanları) ve düşük kâr marjına sahip yüksek ciroya sahip ürünleri (maliyet optimizasyon alanları) belirlemeye yardımcı olur. Kullanılan grafiklerin ve sekme yapısının çeşitliliği, verilerin farklı açılardan hızla incelenmesine ve iş kararlarının daha sağlam verilere dayanmasına olanak tanır. 
